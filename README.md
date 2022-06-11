@@ -1,16 +1,26 @@
-### Hi there 👋
+# Prazer, me chamo Matheus Piltz
 
-<!--
-**mthPiltz/mthPiltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 📘 Estudante de Sistemas de Informação pela UFMS
++ 🖊️ Aprendendo orintação a objetos com Java
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/mthPiltz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthPiltz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthPiltz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+ <img align='center' heigth= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+ <img align='center' heigth= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img align='center' heigth= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+ <img align='center' heigth= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />          
+</div>
+
+##
+
+<div> 
+  <a href="mailto:mpiltz14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
