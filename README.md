@@ -1,7 +1,10 @@
 # Prazer, me chamo Matheus Piltz
 
 + 📘 Estudante de Sistemas de Informação pela UFMS
-+ 🖊️ Aprendendo orintação a objetos com Java
+
+## Estudos atuais
++ 🖊️ Programaçao para web
++ 🖊️ Algoritimos de forma mais aprofudada
 
 
 
