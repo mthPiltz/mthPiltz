@@ -3,7 +3,7 @@
 + 📘 Estudante de Sistemas de Informação pela UFMS
 
 ## Estudos atuais
-+ 🖊️ Angualar
++ 🖊️ Angular
 
 
 
