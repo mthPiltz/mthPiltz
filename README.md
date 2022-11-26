@@ -3,8 +3,7 @@
 + 📘 Estudante de Sistemas de Informação pela UFMS
 
 ## Estudos atuais
-+ 🖊️ Programaçao para web
-+ 🖊️ Algoritimos de forma mais aprofudada
++ 🖊️ Angualar
 
 
 
